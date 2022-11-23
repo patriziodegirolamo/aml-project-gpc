@@ -7,8 +7,8 @@ PyTorch implementation of the algorithm implemented for the final project of the
 In the "report" folder can be consulted:
 
  - The [assignement](report/Assignement.pdf) of the work, filled with the results got.
- - The final detailed [report](Report.pdf) of the project.
- - The slides of the [presentation](AMLppt.pdf) done by the group during the oral exam of February 2022.
+ - The final detailed [report](report/Report.pdf) of the project.
+ - The slides of the [presentation](report/AMLppt.pdf) done by the group during the oral exam of February 2022.
 
 
 *Requirements*: pytorch 0.4.1, python 3.6, torchinfo.
